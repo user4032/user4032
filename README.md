@@ -13,13 +13,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=user4032&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user4032&theme=radical" alt="Contribution streak"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user4032&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ### 🔧 My Discord Bot Projects
 
-- **[bot-terms](https://github.com/user4032/bot-terms)** — Terms/jokes/meme command bot  
-- **[your-next-bot-name]** — (add when ready) music / moderation / AI features
+- **[bot-terms](https://github.com/user4032/bot-terms)** — Programming/Study/AI command bot  
 
 ### 🚀 What I'm working on right now
 - Mastering slash + hybrid commands  
