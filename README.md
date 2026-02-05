@@ -8,7 +8,7 @@
 
 <p align="center">
   Building fun & useful Discord bots.<br>
-  I love creating meme bots, moderation tools, economy systems, games, leveling, and automation scripts.
+  I love creating study bots, moderation tools, economy systems, games, leveling, and automation scripts.
 </p>
 
 <div align="center">
