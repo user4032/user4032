@@ -12,8 +12,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user4032&show_icons=true&theme=radical" alt="GitHub stats"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user4032&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=user4032&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=user4032&theme=radical" alt="Contribution streak" />
 </div>
 
 ### 🔧 My Discord Bot Projects
