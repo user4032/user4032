@@ -67,7 +67,7 @@ focused on **security, anonymity, and clean UX**.
 
 ##  Contact
 
-- Telegram: https://t.me/d4nys
+- Telegram: [d4nys](https://t.me/d4nys)
 - GitHub: issues / discussions
 
 ---
