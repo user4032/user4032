@@ -1,4 +1,4 @@
-<h1 align="center">Denys Ozhykhovskyi</h1>
+<h1 align="center">Denys</h1>
 <p align="center">
   Building private, secure, and modern communication tools
 </p>
