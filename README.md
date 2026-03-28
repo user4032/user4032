@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- Currently, I'm fully focused on **Lumyn** — a private messenger with a strong emphasis on maximum security and privacy.
+ Currently, I'm fully focused on <b>Lumyn</b> — a private messenger with a strong emphasis on maximum security and privacy.
 </p>
 
 <div align="center">
