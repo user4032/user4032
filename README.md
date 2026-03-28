@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  Building fun & useful Discord bots.<br>
-  I love creating study bots, moderation tools, economy systems, games, leveling, and automation scripts.
+ Currently, I'm fully focused on **Lumyn** — a private messenger with a strong emphasis on maximum security and privacy.
 </p>
 
 <div align="center">
@@ -17,14 +16,29 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=user4032&theme=radical" alt="Contribution streak" />
 </div>
 
-###  My Discord Bot Projects
+### About Lumyn
+- Ephemeral mode (messages disappear forever after being read)
+- Strong end-to-end encryption (X25519 + AES-256-GCM)
+- Zero-Knowledge architecture
+- PWA (works on iOS and Android without App Store)
 
-- **[bot-terms](https://github.com/user4032/bot-terms)** — Programming/Study/AI command bot  
+### Technologies I work with
+- **Flutter** (Dart)
+- Cryptography (`cryptography` package)
+- Socket.io
+- Firebase / PostgreSQL (in future plans)
 
-###  What I'm working on right now
-- Mastering slash + hybrid commands  
-- Moving from SQLite → PostgreSQL  
-- Experimenting with AI-powered responses (want to collab? DM me)
+### Current Projects
+- **Lumyn** — main project
+- Experiments with secure communications
 
- Let's connect:  
-Discord: @f53r
+---
+
+Want to learn more about Lumyn?  
+→ [lumyn.space](https://lumyn.space)
+
+Get in touch:
+- Telegram: [@d4nys](https://t.me/d4nys)
+- GitHub Issues in Lumyn repositories
+
+Always building something private and useful.
