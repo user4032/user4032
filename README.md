@@ -1,10 +1,10 @@
-# Hi, I'm Denys 👋
+# Hi, I'm Denys 
 
 > Software Engineering Student & Developer. Focused on building high-performance systems, privacy-first software, and clean web applications with modern design aesthetics.
 
 ---
 
-### 🛠️ Currently Working On
+###  Currently Working On
 
 ⚡ **[Lumyn](https://lumyn.space)** — A next-gen social network for builders with Vercel-inspired dark aesthetic.
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 **Languages & Core:**  
 `TypeScript` `Node.js` `C++` `C#` `Python` `Dart` `Lua`
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=user4032&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
